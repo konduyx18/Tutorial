@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is D411-0823
-
- Directory of C:\Users\yeliz\Desktop\MyProject
-
-11/12/2022  09:28 PM    <DIR>          .
-11/12/2022  09:24 PM    <DIR>          ..
-11/12/2022  09:28 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  702,243,237,888 bytes free
+ change 1
